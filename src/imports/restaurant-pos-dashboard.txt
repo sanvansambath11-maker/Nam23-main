@@ -1,0 +1,84 @@
+Create a modern Restaurant POS Dashboard UI for tablet screen in Figma.
+
+Design a clean, professional food ordering system interface displayed on a tablet mockup. Use a light theme with soft gray background and white cards. Main accent color: green (#22C55E). Secondary accent colors for table tags (red, blue, yellow, purple).
+
+Layout structure:
+
+Left/Main Section:
+
+Top navigation bar with logo “Kafe Sans” on left.
+
+Search bar in center (rounded, soft shadow).
+
+Menu tabs: Reservation, Menu (active with green underline), Delivery, Accounting.
+
+User profile on right (name + role: Cashier).
+
+Below navbar:
+Order List horizontal cards:
+
+Table tags (T6, T7, T8, T9) in colored square badges.
+
+Customer name.
+
+Small status labels: “Ready”, “In Progress”, “In the Kitchen”.
+
+Minimal icons and soft shadows.
+
+Categories section:
+Grid of rounded cards with icons and item count.
+Example: All Menu (highlighted in green), Burger, Juice, Bento, Salad, Tacos, Sushi, Oden.
+Each card with soft border and hover effect.
+
+Main content:
+“Special menu for you” title.
+Grid layout (4 columns) of food product cards.
+Each card includes:
+
+Food image (rounded corners).
+
+Small discount badge (20% OFF).
+
+Recommendation label (red badge).
+
+Product name.
+
+Price (bold).
+
+Old price (strikethrough if discounted).
+
+Right Sidebar (Order Details panel):
+White card with soft shadow.
+Title: Order Details.
+Customer name and order ID.
+List of ordered items with:
+
+Quantity badge (2X, 1X).
+
+Item name.
+
+Price aligned right.
+
+Small modification tags (Extra pickles, Remove lettuce, etc.).
+Subtotal, Tax, Discount, Total (bold).
+Large green rounded “Pay $44.08” button at bottom.
+
+Style guidelines:
+
+Use 8px spacing system.
+
+Rounded corners (12–16px).
+
+Soft drop shadows.
+
+Clean sans-serif font (Inter or Poppins).
+
+Modern minimal SaaS dashboard style.
+
+High resolution tablet frame mockup.
+
+Auto layout enabled.
+
+Proper component structure and reusable variants.
+
+Design should look professional, clean, modern restaurant management POS system UI.
